@@ -19,7 +19,7 @@ Medium Article:  https://medium.com/@ruchithareddy269/unveiling-the-real-estate-
  Medium Article:  https://medium.com/@ruchithareddy269/exploring-the-heartbeat-of-sales-a-time-series-analysis-of-superstore-data-ab8034179c0a
 
 # Spatio temporal    
- Medium Article: 
+ Medium Article: https://medium.com/@ruchithareddy269/unveiling-patterns-in-crop-production-a-data-driven-exploration-5297911e2a6a
 
 # Image 
  Medium Article: 
