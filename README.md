@@ -11,9 +11,11 @@ we will perform the following tasks:
 
 Choose a dataset (a combination of balanced and unbalanced datasets) for each of the following dataset types:
 
-tabular diverse set of data types like nyc taxi   
-timeseries    
-spatio temporal    
+Tabular diverse set of data types like nyc taxi  :
+Medium Article:https://medium.com/@ruchithareddy269/unveiling-the-real-estate-landscape-in-gurgaon-a-data-driven-exploration-875369c43f7c  
+
+Timeseries    
+Spatio temporal    
 image (use kerascv or popular package)    
 audio    
 video (action recognition)    
