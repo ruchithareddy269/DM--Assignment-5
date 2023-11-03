@@ -25,7 +25,7 @@ Medium Article:  https://medium.com/@ruchithareddy269/unveiling-the-real-estate-
  Medium Article: https://medium.com/@ruchithareddy269/a-deep-dive-into-image-classification-with-tensorflow-cats-vs-dogs-6aad761f9a6a
 
 # Audio      
- Medium Article:  
+ Medium Article:  https://medium.com/@ruchithareddy269/decoding-numbers-audio-analysis-with-python-5dbaebabe59a
 
 # Video (action recognition)  
  Medium Article:  https://medium.com/@ruchithareddy269/unveiling-the-art-of-video-processing-from-raw-frames-to-edges-34631404992d
