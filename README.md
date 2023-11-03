@@ -11,23 +11,23 @@ we will perform the following tasks:
 
 Choose a dataset (a combination of balanced and unbalanced datasets) for each of the following dataset types:
 
-Tabular diverse set of data types:  
+# Tabular : 
 
 Medium Article:  https://medium.com/@ruchithareddy269/unveiling-the-real-estate-landscape-in-gurgaon-a-data-driven-exploration-875369c43f7c  
 
-Timeseries     
+# Timeseries     
  Medium Article:  
 
-Spatio temporal    
+# Spatio temporal    
  Medium Article: 
 
-Image (use kerascv or popular package)   
+# Image (use kerascv or popular package)   
  Medium Article: 
 
-Audio      
+# Audio      
  Medium Article:  
 
-Video (action recognition)  
+# Video (action recognition)  
  Medium Article:  
 
 Graph data set   
