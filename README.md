@@ -16,7 +16,7 @@ Choose a dataset (a combination of balanced and unbalanced datasets) for each of
 Medium Article:  https://medium.com/@ruchithareddy269/unveiling-the-real-estate-landscape-in-gurgaon-a-data-driven-exploration-875369c43f7c  
 
 # Timeseries     
- Medium Article:  
+ Medium Article:  https://medium.com/@ruchithareddy269/exploring-the-heartbeat-of-sales-a-time-series-analysis-of-superstore-data-ab8034179c0a
 
 # Spatio temporal    
  Medium Article: 
