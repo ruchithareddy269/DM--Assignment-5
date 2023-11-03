@@ -13,25 +13,25 @@ Choose a dataset (a combination of balanced and unbalanced datasets) for each of
 
 Tabular diverse set of data types:  
 
-# Medium Article:  https://medium.com/@ruchithareddy269/unveiling-the-real-estate-landscape-in-gurgaon-a-data-driven-exploration-875369c43f7c  
+Medium Article:  https://medium.com/@ruchithareddy269/unveiling-the-real-estate-landscape-in-gurgaon-a-data-driven-exploration-875369c43f7c  
 
 Timeseries     
-# Medium Article:  
+ Medium Article:  
 
 Spatio temporal    
-# Medium Article: 
+ Medium Article: 
 
 Image (use kerascv or popular package)   
-# Medium Article: 
+ Medium Article: 
 
 Audio      
-# Medium Article:  
+ Medium Article:  
 
 Video (action recognition)  
-# Medium Article:  
+ Medium Article:  
 
 Graph data set   
-# Medium Article:  
+ Medium Article:  
 
 
 
