@@ -21,7 +21,7 @@ Medium Article:  https://medium.com/@ruchithareddy269/unveiling-the-real-estate-
 # Spatio temporal    
  Medium Article: 
 
-# Image (use kerascv or popular package)   
+# Image 
  Medium Article: 
 
 # Audio      
@@ -30,7 +30,7 @@ Medium Article:  https://medium.com/@ruchithareddy269/unveiling-the-real-estate-
 # Video (action recognition)  
  Medium Article:  
 
-Graph data set   
+# Graph data set   
  Medium Article:  
 
 
