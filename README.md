@@ -28,7 +28,7 @@ Medium Article:  https://medium.com/@ruchithareddy269/unveiling-the-real-estate-
  Medium Article:  
 
 # Video (action recognition)  
- Medium Article:  
+ Medium Article:  https://medium.com/@ruchithareddy269/unveiling-the-art-of-video-processing-from-raw-frames-to-edges-34631404992d
 
 # Graph data set   
  Medium Article:  
